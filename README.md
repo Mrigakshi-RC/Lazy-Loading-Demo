@@ -1,14 +1,1 @@
-# Features - 
-- Login/SignUp
-    - Sign in/up form
-    - Redirect to Browse page
-- Browse (after authentication)
-    - Header
-    - Main movie 
-        - Trailer in Background
-        - Title and description
-        - Movie suggestions
-            - movie lists
-    - NetflixGPT
-        - Search Bar
-        - Movie Suggestions
+
